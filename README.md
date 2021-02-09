@@ -16,7 +16,7 @@ Adoro imparare ogni giorno qualcosa in piu' riguardo a linguaggi di programmazio
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Attualmente sto concentrando la mia attenzione su Javascript e i suoi frameworks. 
 - 👯 I’m looking to collaborate on Mi piace trovare nuovi collaboratori per espandere le mie conoscenze e le mie attitudini al lavoro di gruppo. 
-- 💬 Ask me about o seguito un Bootcamp intensivo di 6 mesi presso Boolean Careers. 
+- 💬 Ho seguito un Bootcamp intensivo di 6 mesi presso Boolean Careers. 
 - 📫 How to reach me: Cliccate i link qui sotto per contattarmi: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/rezz89)                              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nicola-rizzi-aa6a87127/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/profile.php?id=100008652061263)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='20'>](https://www.reddit.com/user/Dev_Reez89)   
 
 
