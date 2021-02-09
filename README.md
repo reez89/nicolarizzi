@@ -9,7 +9,7 @@ Adoro imparare ogni giorno qualcosa in piu' riguardo a linguaggi di programmazio
 ## Skills:
 
 * ❤️ VUE JS 
-* 🖥️ JQUERY / JS / 
+* 🖥️ JQUERY / JS  
 * 👨‍💻 PHP / LARAVEL / MYSQL 
 * 🎧 HTML / CSS / BOOTSTRAP
 
