@@ -8,15 +8,15 @@ Adoro imparare ogni giorno qualcosa in piu' riguardo a linguaggi di programmazio
 
 ## Skills:
 
-* ❤️ VUE JS 
-* 🖥️ JQUERY / JS  
-* 👨‍💻 PHP / LARAVEL / MYSQL 
+* ❤️ VUE JS / ANGULAR
+* 🖥️ JQUERY / JS  / TYPESCRIPT
+* 👨‍💻 PHP / LARAVEL / MYSQL / NESTJS
 * 🎧 HTML / CSS / BOOTSTRAP
 
 - 🌱 Attualmente sto concentrando la mia attenzione su Javascript e i suoi frameworks. 
 - 👯 Mi piace trovare nuovi collaboratori per espandere le mie conoscenze e le mie attitudini al lavoro di gruppo. 
 - 💬 Ho seguito un Bootcamp intensivo di 6 mesi presso Boolean Careers. 
-- 📫 Come contattarmi:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/rezz89)                              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nicola-rizzi-aa6a87127/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/profile.php?id=100008652061263)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='20'>](https://www.reddit.com/user/Dev_Reez89)   
+- 📫 Come contattarmi:  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/rezz89)                              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/nicola-rizzi-aa6a87127/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'> background='white' border-radius='10px'](https://www.facebook.com/profile.php?id=100008652061263)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='20'>](https://www.reddit.com/user/Dev_Reez89)   
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reez89)](https://github.com/anuraghazra/github-readme-stats)
