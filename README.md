@@ -1,10 +1,10 @@
 
 # Hi there 👋, io sono Nicola
-## Web Developer appasionato di tecnologia e design
+## Web Developer passionate about technology and design
 
 ![GitHub Logo](https://usersnap.com/blog/wp-content/uploads/2015/03/Get-started-in-web-development-today-1.jpg)
 
-Adoro imparare ogni giorno qualcosa in piu' riguardo a linguaggi di programmazione e frameworks come VueJs.
+### I love learning more about programming languages and frameworks like VueJs every day, though I'm currently working constantly on Angular.
 
 ## Skills:
 
