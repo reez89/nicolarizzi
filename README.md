@@ -2,7 +2,7 @@
 # Hi there 👋, io sono Nicola
 ## Web Developer appasionato di tecnologia e design
 
-![GitHub Logo](https://www.bacancytechnology.com/blog/wp-content/uploads/2019/02/Vue.JS-Application-Dev-Blog-Banner-1024x351.jpg)
+![GitHub Logo](https://usersnap.com/blog/wp-content/uploads/2015/03/Get-started-in-web-development-today-1.jpg)
 
 Adoro imparare ogni giorno qualcosa in piu' riguardo a linguaggi di programmazione e frameworks come VueJs.
 
